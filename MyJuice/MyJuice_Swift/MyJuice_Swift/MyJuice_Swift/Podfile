@@ -1,5 +1,5 @@
 platform :ios,'10.0'
-project '/Users/shinji/Mydata/personalmarketing/english/canada/school/CICCC/subject/402/MyJuice/MyJuice_Swift/MyJuice_Swift/MyJuice_Swift.xcodeproj'
+project '/Users/HannahPark/Desktop/MyJuiceApp_Swift/MyJuice/MyJuice_Swift/MyJuice_Swift/MyJuice_Swift.xcodeproj'
 target 'MyJuice_Swift' do
 use_frameworks!
 pod 'FacebookCore'
